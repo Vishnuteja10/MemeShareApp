@@ -24,3 +24,7 @@ Glide library: https://github.com/bumptech/glide
 
 
 ![meme3](https://user-images.githubusercontent.com/66770891/150289278-49ff1cd6-9a44-4402-b2fb-71c1c0af2cfb.jpeg)
+## Run Locally
+
+Run my app on your device through this link:https://drive.google.com/file/d/1Xclih_XAAQx35i7YqVyiuBL6uS389r6s/view?usp=drivesdk
+
