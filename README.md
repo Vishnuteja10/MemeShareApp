@@ -15,3 +15,12 @@ Glide library: https://github.com/bumptech/glide
 
 2.Glide Library to process Images
    -Glide is a fast and efficient image Loading Library for android.
+## Screenshots
+
+![meme1](https://user-images.githubusercontent.com/66770891/150289130-ef88f50a-1d2a-41ca-a2dd-abeb134a02f4.jpeg)
+
+
+![meme2](https://user-images.githubusercontent.com/66770891/150289240-794565b8-ed71-40d2-9907-afcca858282b.jpeg)
+
+
+![meme3](https://user-images.githubusercontent.com/66770891/150289278-49ff1cd6-9a44-4402-b2fb-71c1c0af2cfb.jpeg)
